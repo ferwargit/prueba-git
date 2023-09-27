@@ -1,2 +1,3 @@
 # prueba-git
-Pruebas varias git y github
+Pruebas varias git y github.
+Archivo de prueba.
